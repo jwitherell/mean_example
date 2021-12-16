@@ -1,0 +1,25 @@
+{
+  "name": "mean_tutorial",
+  "version": "1.0.0",
+  "description": "simple learning example",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwitherell/mean_example.git"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "JasonW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwitherell/mean_example/issues"
+  },
+  "homepage": "https://github.com/jwitherell/mean_example#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
